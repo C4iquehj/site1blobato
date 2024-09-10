@@ -9,12 +9,15 @@ background-color: black ;
 
 .cabecalho{
 background-color:rgb(59, 28, 170) ;
+padding: 15px;
 }
 
 .corpo{
 background-color: rgb(115, 25, 233) ;
+padding: 15px;
 }
 
 .footer{
 background-color: rgb(183, 0, 255);
+padding: 15px;
 }

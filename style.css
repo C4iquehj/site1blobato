@@ -8,13 +8,13 @@ background-color: black ;
 }
 
 .cabecalho{
-background-color:gray ;
+background-color:rgb(59, 28, 170) ;
 }
 
 .corpo{
-background-color: white ;
+background-color: rgb(115, 25, 233) ;
 }
 
 .footer{
-background-color: blue;
+background-color: rgb(183, 0, 255);
 }

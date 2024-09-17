@@ -21,3 +21,8 @@ padding: 15px;
 background-color: rgb(106, 132, 250);
 padding: 15px;
 }
+.boton{
+    position: fixed; 
+    top: 25px;
+    left: 22px;
+}
